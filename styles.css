@@ -6,7 +6,7 @@ body {
     background-color: f4f4f4;
     }
     header {
-    background-color: 4CAF50;
+    background-color:rgb(16, 128, 34);
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -15,7 +15,7 @@ body {
     width: 50px;
     }
     nav {
-    background-color: 333;
+    background-color:black;
     color: white;
     padding: 10px;
     }
@@ -87,19 +87,22 @@ body {
     border-radius: 5px;
     }
     form button {
-    background-color: 4CAF50;
-    color: white;
+    background-color: rgb(16, 128, 34);
+    color: rgb(255, 255, 255);
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
+    }
+    .pp{
+        font-size: 50%;
     }
    
     form button:hover {
     background-color: 45a049;
     }
     footer {
-    background-color: 333;
+    background-color: black;
     color: white;
     padding: 20px;
     text-align: center;
